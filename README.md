@@ -1,4 +1,4 @@
-# AcheivoLog
+# AchievoLog
 Script that handle the process of logging hours on Achievo's website
 
 # Recommended Python Version
